@@ -1,2 +1,2 @@
-def start():
-    print("import successful")
+def dd():
+    return 'my'
